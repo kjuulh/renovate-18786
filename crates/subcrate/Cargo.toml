@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 serde = {workspace=true}
+
+tokio = {version = "1.21.1"}

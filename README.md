@@ -7,7 +7,7 @@ link: https://github.com/renovatebot/renovate/issues/18786
 ## RUN
 
 ```bash
-renovate RENOVATE_REPOSITORIES=kjuulh/renovate-18786
+renovate kjuulh/renovate-18786
 ```
 
 ## Verification
