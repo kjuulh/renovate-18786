@@ -12,5 +12,11 @@ renovate kjuulh/renovate-18786
 
 ## Verification
 
-See pr: *tba*
+See issue: https://github.com/kjuulh/renovate-18786/issues/2
+
+The lack of the workspace.dependencies features means that there are no entries for serde in the Detected dependencies
+
+### Definition of Done
+
+Serde is detected in the detected dependencies
 
